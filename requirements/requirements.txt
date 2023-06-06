@@ -135,7 +135,7 @@ urllib3==1.26.6
 waitress==2.1.2
 walrus==0.8.2
 wcwidth==0.2.6
-Werkzeug==1.0.1
+Werkzeug==2.2.3
 wrapt==1.15.0
 xgboost==1.7.5
 zipp==3.15.0
